@@ -1,3 +1,3 @@
 # big_data_patterns
 
-My big data and data system concepts notes.
+My notes are about data systems from many different books.
