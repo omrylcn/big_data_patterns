@@ -1,4 +1,4 @@
-# Big Data Patterns
+# Core Concepts
 
 ## Load Leveling with Queues
 
